@@ -5,7 +5,7 @@ This project presents a comprehensive analysis of the Indian Premier League (IPL
 
 # Purpose:
 
-Analyze historical IPL data to identify patterns and trends across all seasons
+- Analyze historical IPL data to identify patterns and trends across all seasons
 Track individual player performances with detailed statistics (Orange Cap, Purple Cap holders)
 Compare team standings and performance metrics over the years
 Provide actionable insights for cricket enthusiasts, analysts, and fantasy league players
