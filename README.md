@@ -3,7 +3,7 @@
 📋 Description and Purpose
 This project presents a comprehensive analysis of the Indian Premier League (IPL) spanning 17 seasons from 2008 to 2025. The dashboard provides deep insights into team performances, player statistics, match outcomes, and tournament trends through interactive visualizations and key performance indicators (KPIs).
 
-Purpose:
+#Purpose:
 
 Analyze historical IPL data to identify patterns and trends across all seasons
 Track individual player performances with detailed statistics (Orange Cap, Purple Cap holders)
